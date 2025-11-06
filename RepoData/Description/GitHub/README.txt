@@ -1,1 +1,1 @@
-⌨️ The Magma programming language IDE submodule for SNU Programming Tools (2D Mode)
+🗄️🌐️ The official source repository for the website of the Boilerplate Cabinet website, a collection of boilelrplate scripts by @seanpm2001
